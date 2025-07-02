@@ -39,7 +39,7 @@ A full-stack task management application built for the Katomaran Hackathon. It a
 ## 👩‍💻 Developed By
 
 **Keerthika S**  
-B.Tech CSE (Computer Science and Business Systems)  
+B.Tech CSBS (Computer Science and Business Systems)  
 Final Year Student
 
 ---
@@ -50,3 +50,11 @@ Final Year Student
 client/         # React Frontend
 server/         # Node.js Backend
 README.md       # Project Overview
+
+
+## 🧩 Architecture Diagram
+
+![Architecture Diagram](("C:\Users\abina\Downloads\Architecture diagram.png")
+
+
+---

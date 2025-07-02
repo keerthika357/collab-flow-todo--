@@ -54,7 +54,8 @@ README.md       # Project Overview
 
 ## 🧩 Architecture Diagram
 
-![Architecture Diagram](("C:\Users\abina\Downloads\Architecture diagram.png")
+![Architecture Diagram](todo_architecture_diagram.png)
+
 
 
 ---
